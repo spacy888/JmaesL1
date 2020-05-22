@@ -1,1 +1,1 @@
-{ "url1":"ggoohello.com", "url2":"lemocloud.net" }
+{ "url1":"applejiekou.com", "url2":"jiekouapple.com" }
