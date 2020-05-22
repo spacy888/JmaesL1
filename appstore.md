@@ -1,1 +1,1 @@
-{ "url1":"applejiekou.co", "url2":"jiekouapple.co" }
+{ "url1":"applejiekou.com", "url2":"jiekouapple.com" }
